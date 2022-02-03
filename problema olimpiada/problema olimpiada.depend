@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643386684 source:c:\users\marian\desktop\info\problema olimpiada\main.cpp
+	<iostream>
+	<fstream>
+
